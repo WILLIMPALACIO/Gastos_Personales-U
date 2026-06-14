@@ -1,16 +1,10 @@
 💰 App de Gastos Personales
 
-Aplicación web para gestionar tus ingresos y gastos personales de manera sencilla y eficiente.
+Una aplicación web moderna, ligera y eficiente diseñada para ayudarte a tomar el control de tus finanzas personales, gestionando tus ingresos y gastos de forma sencilla.
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,git,github,vscode" alt="Tecnologías usadas" />
+</p>
 
-Características:
-
-- Registro de ingresos.
-- Registro de gastos.
-- Balance automático.
-- Historial de movimientos.
-- Eliminación de registros.
-- Persistencia con LocalStorage.
 
 👨‍💻 Autor: Willim Palacio
